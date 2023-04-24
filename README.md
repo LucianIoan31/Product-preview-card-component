@@ -32,8 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://lucianioan31.github.io/Product-preview-card-component/)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://lucianioan31.github.io/Product-preview-card-component/)
 
 ## My process
 
@@ -49,21 +49,21 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-Centering wasn't that stressfull anymore. Still had some struggles, but I could feel a progress since the last project.
+Centering wasn't that stressful anymore. Still had some struggles, but I could feel a progress since the last project.
 
-I have find a good way to change from an image to another when resing browser's window. 
+I have find a good way to change from an image to another when resizing browser's window. 
 
 My container's height was 100vh. Because of that my footer couldn't been seen. Had the inspiration to change it to 90vh so I can make some space for my little  footer. :D
 
 ### Continued development
 
-Maybe I should fix things about flexbox. I am still using a cheatsheet I have from csstricks.com.
+Maybe I should fix things about flexbox. I am still using a cheat sheet I have from csstricks.com.
 
 ### Useful resources
 
 - [Example resource 1]((https://www.frontendmentor.io/solutions/crazy-grid-qr-code-creation-fE_97-JdYg#feedback)) - This helped me when I wanted to center the flex items. 
 - [Example resource 2]((https://www.w3schools.com/css/css_rwd_mediaqueries.asp)) - this is something I use very often in order to remember the media queries syntax. hahaha
-- [Example resource 3]((https://developer.mozilla.org/en-US/docs/Web/CSS/object-position)) - Forgot that I have a different image for the mobile version, so since I have remembered that, I was trying to reposition and resize the desktop image. :D:D
+- [Example resource 3]((https://developer.mozilla.org/en-US/docs/Web/CSS/object-position)) - Forgot that I have a different image for the mobile version, so until I have remembered that, I was trying to reposition and resize the desktop image. :D:D
 - [Example resource 4]((https://css-tricks.com/replace-the-image-in-an-img-with-css/)) - this was an 'aha' moment. Really usefull for the problem I had. (related to example resource 3).
 
 
