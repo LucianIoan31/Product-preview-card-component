@@ -32,7 +32,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [https://lucianioan31.github.io/Product-preview-card-component/]
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-product-review-card-component-hExwAto8cE]
 - Live Site URL: [https://lucianioan31.github.io/Product-preview-card-component/]
 
 ## My process
