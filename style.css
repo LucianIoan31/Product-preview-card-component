@@ -1,0 +1,137 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    background-color: hsl(30, 38%, 92%);
+}
+
+.container {
+    max-width: 1440px;
+    min-width: 600px;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.card {
+    width: 600px;
+    height: 455px;
+    border-radius: 2%;
+    overflow: hidden;
+    display: flex;
+    background-color: white;
+}
+
+.image-desktop {
+    width: 50%;
+}
+
+.image-mobile {
+    display: none;
+}
+
+.description {
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 30px;
+}
+
+.description p:first-of-type {
+    color: hsl(228, 12%, 48%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.product-name {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 2.225em;
+    line-height: 1em;
+    margin: 5px 0 5px 0;
+}
+
+.descriptive {
+    color: hsl(228, 12%, 48%);
+    font-family: 'Outfit', sans-serif;
+    text-align: left;
+    font-size: 1.125em;
+    line-height: 1.5em;
+}
+
+ul {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.card ul li:first-child {
+    font-size: 2.225em;
+    color: hsl(157.94,35.79%,37.25%);
+    font-weight: 700;
+    font-family: 'Fraunces', serif;
+    margin-right: 20px;
+}
+
+ul li:last-child {
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: line-through;
+}
+
+button {
+    color: white;
+    background-color: hsl(157.94,35.79%,37.25%);
+    padding: 13px;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+    font-size: 1.1em;
+    margin: 13px auto;
+    width: 100%;
+}
+
+button::before {
+    content: url(./images/icon-cart.svg);
+    margin: 15px 10px 0 0;
+}
+
+button:hover {
+    background-color: hsl(158, 49%, 15%);
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 650px) {
+
+    .card {
+        width: 350px;
+        height: 680px;
+        border-radius: 2%;
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+    }
+
+    .image-desktop {
+        display: none;
+    }
+
+    .image-mobile {
+        display: block;
+    }
+
+    ul {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+}
+
+
