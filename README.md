@@ -63,7 +63,7 @@ Maybe I should fix things about flexbox. I am still using a cheatsheet I have fr
 - [https://www.frontendmentor.io/solutions/crazy-grid-qr-code-creation-fE_97-JdYg#feedback] - This helped me when I wanted to center the flex items. 
 - [https://www.w3schools.com/css/css_rwd_mediaqueries.asp] - This is something I use very often in order to remember the media queries syntax. hahaha
 - [https://developer.mozilla.org/en-US/docs/Web/CSS/object-position]- Forgot that I have a different image for the mobile version, so since I have remembered that, I was trying to reposition and resize the desktop image. :D:D
-- [https://css-tricks.com/replace-the-image-in-an-img-with-css/] - This was an 'aha' moment. Really usefull for the problem I had. (related to example resource 3).
+- [https://stackoverflow.com/questions/27853884/media-queries-and-image-swapping] - This was an 'aha' moment. Really usefull for the problem I had. (related to example resource 3).
 
 
 ## Author
