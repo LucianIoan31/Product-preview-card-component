@@ -1,6 +1,6 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -41,7 +41,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Semantic HTML5 markup
 - UL lists 
-- used some center stuffs from the feedback I got on my last solution (https://www.frontendmentor.io/solutions/crazy-grid-qr-code-creation-fE_97-JdYg#feedback)
 - still had problems with centering the card (I had to gave my flex container a height of 100vh)
 - Flexbox
 - pseudo-class selectors
@@ -49,21 +48,21 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-Centering wasn't that stressful anymore. Still had some struggles, but I could feel a progress since the last project.
+Centering wasn't that stressfull anymore. Still had some struggles, but I could feel a progress since the last project.
 
-I have find a good way to change from an image to another when resizing browser's window. 
+I have find a good way to change from an image to another when resing browser's window. 
 
 My container's height was 100vh. Because of that my footer couldn't been seen. Had the inspiration to change it to 90vh so I can make some space for my little  footer. :D
 
 ### Continued development
 
-Maybe I should fix things about flexbox. I am still using a cheat sheet I have from csstricks.com.
+Maybe I should fix things about flexbox. I am still using a cheatsheet I have from csstricks.com.
 
 ### Useful resources
 
 - [Example resource 1]((https://www.frontendmentor.io/solutions/crazy-grid-qr-code-creation-fE_97-JdYg#feedback)) - This helped me when I wanted to center the flex items. 
 - [Example resource 2]((https://www.w3schools.com/css/css_rwd_mediaqueries.asp)) - this is something I use very often in order to remember the media queries syntax. hahaha
-- [Example resource 3]((https://developer.mozilla.org/en-US/docs/Web/CSS/object-position)) - Forgot that I have a different image for the mobile version, so until I have remembered that, I was trying to reposition and resize the desktop image. :D:D
+- [Example resource 3]((https://developer.mozilla.org/en-US/docs/Web/CSS/object-position)) - Forgot that I have a different image for the mobile version, so since I have remembered that, I was trying to reposition and resize the desktop image. :D:D
 - [Example resource 4]((https://css-tricks.com/replace-the-image-in-an-img-with-css/)) - this was an 'aha' moment. Really usefull for the problem I had. (related to example resource 3).
 
 
